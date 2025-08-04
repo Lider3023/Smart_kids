@@ -1,0 +1,6 @@
+export {default as logo} from '../assets/img/logo.png'
+export {default as placeholder_logo} from '../assets/img/placeholder-logo.png'
+export {default as placeholder_logo_svg} from '../assets/img/placeholder-logo.svg'
+export {default as placeholder_user} from '../assets/img/placeholder-user.jpg'
+export {default as placeholder_jpg} from '../assets/img/placeholder.jpg'
+export {default as placeholder_svg} from '../assets/img/placeholder.svg'
