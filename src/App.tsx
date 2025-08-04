@@ -24,7 +24,7 @@ export default function App() {
       name: "Murojaat",
       description: "Kamchiliklar va takliflar",
       icon: Bot,
-      href: "#",
+      href: "https://t.me/smart_kids_kinder_gardenbot",
       colorClass: "social-link-murojaat",
     },
     {
