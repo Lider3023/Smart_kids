@@ -68,15 +68,15 @@ export default function App() {
     <div className="main-container">
       <div className="container">
         <div className="decorative-container">
-          <div className="sun-decor">
+          {/* <div className="sun-decor">
             <Sun className="icon" />
-          </div>
-          <div className="heart-decor-1">
+          </div> */}
+          {/* <div className="heart-decor-1">
             <Heart className="icon" />
           </div>
           <div className="heart-decor-2">
             <Heart className="icon" />
-          </div>
+          </div> */}
           <div className="star-decor-1">
             <Star className="icon" />
           </div>
