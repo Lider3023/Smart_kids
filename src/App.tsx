@@ -38,7 +38,7 @@ export default function App() {
       name: "YouTube",
       description: "Videolar va o'quv darsliklari",
       icon: Youtube,
-      href: "https://www.youtube.com/@Smartkids862",
+      href: "https://youtube.com/@smart_kids_kindergarden?si=B-wmPI_HRB2c4pIO",
       colorClass: "social-link-youtube",
     },
     {
